@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malitha Gunawardhana
 - 👀 I’m interested in Machine learning, Computer Vision and Data Science
-- 🌱 I’m currently working as a machine learning engineer at promiseQ GmBH, Germany
+- 🌱 I’m currently working as a machine learning engineer and as a researcher
 - 💞️ I’m looking to collaborate on machine learning, computer vision and deep learning based projetcs
 - 📫 My complete profile is in https://malitha123.github.io/malitha/
 
